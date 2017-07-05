@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "ir.smgroup.sms"
+        id        = "ir.smgroup.dentaltest"
         version   = "0.96">
 		
 		
-    <name>اطلاعیه ها</name>
-    <description>اطلاعیه های سروش مهر</description>
+    <name>تست مدل سه بعدی</name>
+    <description>تست مدل سه بعدی</description>
     <author href="http://smgroup.ir" email="info@smgroup.ir">Sorush Mehr Rezvan</author>
     <!--
 		ir.smgroup.saveimage
